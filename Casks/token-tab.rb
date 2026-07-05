@@ -12,7 +12,7 @@ cask "token-tab" do
     strategy :github_latest
   end
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "Token Tab.app"
 
