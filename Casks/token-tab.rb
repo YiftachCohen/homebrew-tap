@@ -1,6 +1,6 @@
 cask "token-tab" do
-  version "0.1.0"
-  sha256 "c6fcd22134e0fa5355aed8dd53493857b9ca7c001ce9413165149114d385e677"
+  version "0.1.1"
+  sha256 "0ff85f79c751c6858453cceada8574020f425c6e134aa09510b8e3fa6af4e083"
 
   url "https://github.com/YiftachCohen/token-tab/releases/download/v#{version}/Token-Tab-#{version}.zip"
   name "Token Tab"
